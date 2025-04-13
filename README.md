@@ -54,3 +54,8 @@ Each line should use one of the supported commands:
    let reversed = reverse name
   
    let spam = repeat char 5
+
+## Transpiler wip
+
+python transpiler.py programs/reversestring.txt reverse.c
+
