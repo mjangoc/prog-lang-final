@@ -52,4 +52,5 @@ Each line should use one of the supported commands:
 - Use built-in fuctions like:
   
    let reversed = reverse name
+  
    let spam = repeat char 5
