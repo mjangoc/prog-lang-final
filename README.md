@@ -40,17 +40,17 @@ Each line should use one of the supported commands:
 
 - Use input to get values from the user:
 
- - input "Prompt message" -> variableName
+ * input "Prompt message" -> variableName
 
 - Use let to define variables:
 
- - let total = a + b
+ * let total = a + b
 
 - Use print to display output:
 
- - print total
+ * print total
 
 - Use built-in fuctions like:
 
- - let reversed = reverse name
- - let spam = repeat char 5
+ * let reversed = reverse name
+ * let spam = repeat char 5
