@@ -59,3 +59,5 @@ Each line should use one of the supported commands:
 
 python transpiler.py programs/reversestring.txt reverse.c
 
+
+fix cat, multiply, repeater
