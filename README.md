@@ -1,9 +1,8 @@
-# prog-lang-final
-Uh, it's jang lang
+# JangLang Interpreter
 
 This is a simple interpreter for a custom programming language called **JangLang**, written in Python. It supports basic input/output, variables, math, string manipulation, and more.
 
-## How to Run
+## 📦 How to Run
 
 Make sure you have Python installed.
 
