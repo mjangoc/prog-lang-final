@@ -6,10 +6,9 @@ This is a simple interpreter for a custom programming language called **JangLang
 
 Make sure you have Python installed.
 
-```bash
 python interpreter.py your_program.txt
 
-Language Overview
+## Language Overview
 
 JangLang is a line-by-line interpreted language that uses human-readable syntax. It supports the following features:
 
@@ -23,7 +22,7 @@ JangLang is a line-by-line interpreted language that uses human-readable syntax.
 
     Built-in functions: reverse, repeat
 
-Supported Keywords
+## Supported Keywords
 
 | Instruction | Description |
 | ------ | ------ |
@@ -37,7 +36,7 @@ Supported Keywords
 | -> | Assign input to a variable (after prompt) |
 
 
-Writing Your Own Programs
+## Writing Your Own Programs
 
 Each line should use one of the supported commands:
 
