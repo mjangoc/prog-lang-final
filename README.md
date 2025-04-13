@@ -4,9 +4,7 @@ This is a simple interpreter for a custom programming language called **JangLang
 
 ## How to Run
 
-Make sure you have Python installed.
-
-python interpreter.py your_program.txt
+Uh, make sure you have Python installed.
 
 ## Language Overview
 
