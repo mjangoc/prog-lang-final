@@ -22,7 +22,7 @@ JangLang is a line-by-line interpreted language that uses human-readable syntax.
 
 ## Supported Keywords
 
-| Instruction | Description |
+| Instruction/Op | Description |
 | ------ | ------ |
 | print | Print to console |
 | input | prompt user for input |
