@@ -1,0 +1,2 @@
+input "Say something:" -> msg
+print msg

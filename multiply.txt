@@ -1,0 +1,4 @@
+input "First number:" -> a
+input "Second number:" -> b
+let result = a * b
+print result

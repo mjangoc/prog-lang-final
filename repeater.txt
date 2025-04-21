@@ -1,0 +1,4 @@
+input "Character to repeat:" -> char
+input "Times to repeat:" -> n
+let spam = repeat char n
+print spam

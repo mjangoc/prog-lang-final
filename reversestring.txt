@@ -1,0 +1,3 @@
+input "Enter string:" -> word
+let flipped = reverse word
+print flipped
