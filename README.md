@@ -31,7 +31,7 @@ JangLang is a line-by-line interpreted language that uses human-readable syntax.
 | * | Multiply two numbers |
 | reverse | Reverse a string | Use built-in fuctions like: let reversed = reverse name |
 | repeat | Repeat a string N times | Use built-in fuctions like: let spam = repeat char 5 |
-| -> | Assign input to a variable (after prompt) |
+| -> | Assign input to a variable (after prompt) |  Use input to get values from the user: input "Prompt message" -> variableName |
 
 - 
   
