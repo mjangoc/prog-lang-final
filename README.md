@@ -22,9 +22,11 @@ JangLang is a line-by-line interpreted language that uses human-readable syntax.
 
 ## Supported Keywords
 
-| Instruction/Op | Description |
-| ------ | ------ |
-| print | Print to console |
+| Instruction/Op | Description | Example |
+| ------ | ------ | ------ |
+| print | Print to console | Use print to display output:
+  
+   print total
 | input | prompt user for input |
 | let | Declare and assign a variable |
 | + | Add two numbers |
@@ -45,9 +47,7 @@ Each line should use one of the supported commands:
   
    let total = a + b
   
-- Use print to display output:
-  
-   print total
+- 
   
 - Use built-in fuctions like:
   
