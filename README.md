@@ -24,9 +24,7 @@ JangLang is a line-by-line interpreted language that uses human-readable syntax.
 
 | Instruction/Op | Description | Example |
 | ------ | ------ | ------ |
-| print | Print to console | Use print to display output:
-  
-   print total
+| print | Print to console | Use print to display output: print total |
 | input | prompt user for input |
 | let | Declare and assign a variable |
 | + | Add two numbers |
