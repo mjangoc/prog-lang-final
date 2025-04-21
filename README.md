@@ -27,8 +27,8 @@ JangLang is a line-by-line interpreted language that uses human-readable syntax.
 | print | Print to console | Use print to display output: print total |
 | input | prompt user for input | Use input to get values from the user: input "Prompt message" -> variableName |
 | let | Declare and assign a variable | Use let to define variables: let total = a + b |
-| + | Add two numbers |
-| * | Multiply two numbers |
+| + | Add two numbers | Use let to define variables: let sum = a + b |
+| * | Multiply two numbers | Use let to define variables: let product = a * b |
 | reverse | Reverse a string | Use built-in fuctions like: let reversed = reverse name |
 | repeat | Repeat a string N times | Use built-in fuctions like: let spam = repeat char 5 |
 | -> | Assign input to a variable (after prompt) |  Use input to get values from the user: input "Prompt message" -> variableName |
